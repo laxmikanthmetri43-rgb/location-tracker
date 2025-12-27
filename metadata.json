@@ -1,0 +1,7 @@
+{
+  "name": "Worker Live Tracker",
+  "description": "A professional real-time admin dashboard for monitoring worker locations using Leaflet.js and Firebase Realtime Database.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
